@@ -77,6 +77,8 @@ created_at: "2024-10-011"
   * Full maze solving + talking + object sorting together.
   * ✅ **Output:** A smooth, multitask robot with Pi + Arduino working together.
 
+#Screenshot <img width="1376" height="768" alt="mage_84qcjk84qcjk84qc" src="https://github.com/user-attachments/assets/ce84ef74-54c7-41f4-ae56-27bfe6433924" />
+
 ---
 
 **Total time spent: 49h**
